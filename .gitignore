@@ -1,0 +1,15 @@
+# This repository publishes only the reviewed showcase files.
+*
+!.gitignore
+!README.md
+!NOTICE.md
+!docs/
+docs/*
+!docs/case-study.md
+!images/
+images/*
+!images/lesson-detail.png
+!images/reveal-initial.png
+!images/reveal-first.png
+!images/layout-before.png
+!images/layout-after.png
